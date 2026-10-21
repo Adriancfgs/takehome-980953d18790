@@ -1,0 +1,38 @@
+{
+  "note": "Copia de lectura de semillas mock. Las consultas HTTP son la fuente del estado vigente.",
+  "stays": [
+    {
+      "stay_id": "STAY-A1",
+      "org_id": "org-coral",
+      "hotel_id": "hotel-alba",
+      "hotel_name": "Alba",
+      "room": "101",
+      "checkout_at": "2026-11-10T11:00:00Z",
+      "max_checkout_at": "2026-11-10T14:00:00Z",
+      "cleaning_at": "2026-11-10T15:00:00Z",
+      "version": 1
+    },
+    {
+      "stay_id": "STAY-A2",
+      "org_id": "org-coral",
+      "hotel_id": "hotel-alba",
+      "hotel_name": "Alba",
+      "room": "102",
+      "checkout_at": "2026-11-10T11:00:00Z",
+      "max_checkout_at": "2026-11-10T11:00:00Z",
+      "cleaning_at": "2026-11-10T12:00:00Z",
+      "version": 1
+    },
+    {
+      "stay_id": "STAY-B1",
+      "org_id": "org-brisa",
+      "hotel_id": "hotel-alba-b",
+      "hotel_name": "Alba",
+      "room": "101",
+      "checkout_at": "2026-11-10T10:00:00Z",
+      "max_checkout_at": "2026-11-10T12:00:00Z",
+      "cleaning_at": "2026-11-10T13:00:00Z",
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "kit-candidato",
+  "version": "1.0.0",
+  "description": "Lee primero `enunciado.pdf` o `enunciado.md`. Puedes usar cualquier herramienta de IA. Después tendrás que defender el código: explicar tus decisiones, reproducir un fallo y hacer un cambio pequeño. Los hoteles, reservas y documentos son ficticios. La aplicación usa una IA simulada: no necesitas una cuenta de pago ni aportar claves personales.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}

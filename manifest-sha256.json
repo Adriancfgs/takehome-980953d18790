@@ -1,0 +1,15 @@
+{
+  ".env.example": "e65559ee12b4ac3d2c409a73b372ac5e9814a11decaf9bbf5e760bb68e4f40a2",
+  "README.md": "4ff675b82a08bae8b020c4be7d8698a0d627f2dcafc6e9de23a2d3fba31808f5",
+  "contratos/app-api.md": "c67703e05df0f89ca8c04a4f3327fcd6a916e519d3793234a4ade902ed088cb2",
+  "contratos/llm-api.md": "f2d618dc63808aa898e9a91a294b46afa249cd0366728b4b86a3ce84c4aa1dc2",
+  "contratos/mock-api.md": "7735632dc2a522590fa1c224b01efa32342dffb7b4d595bf64ff469889f91fcc",
+  "datos/casos-publicos.jsonl": "86785590d22c1667a7d576bfeaaead36c5d11ff86a4e11c3cb4a132171e83bce",
+  "datos/documentos.jsonl": "f48c3d07798da2838e862fde7371c12d20043c7f2b443e11a9dcccb910486a3d",
+  "datos/estancias.json": "8a4ac365da27a899f562ae94c3f09a4a8dab5aea2539e0445de44f2ecd3f1e68",
+  "datos/eventos.jsonl": "ef4c8781f75026b8f2a064ea2be3590a33e739f1e8551c9b2e1c9170f0b2cb7c",
+  "datos/identidades.json": "0db51bd3aa312610d36238a15842c659be0d30a9fc15128a207d5f8c51c29dfd",
+  "datos/salidas-modelo.jsonl": "ff6cfb74537c11b92a9f98c0cfe35d59614c0eea29e1e29effa94543e3c66243",
+  "enunciado.md": "8f40c9c1a6ec5d448163a0982d8cd3af2fa9c9865870daf5d726c452c30efc78",
+  "enunciado.pdf": "0a0c46a4d639bcfc3dddf54f4853051123873a694c642dc5ef3585496e8d4048"
+}
